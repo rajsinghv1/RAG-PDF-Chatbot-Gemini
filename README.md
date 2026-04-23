@@ -75,7 +75,7 @@ This ensures responses are **context-based, relevant, and reliable**, not random
 ## 📸 Demo  
 
 Add your screenshot here:  
-/screenshots/demo.png  
+/screenshots/Chat_Result.png  
 
 ---
 
