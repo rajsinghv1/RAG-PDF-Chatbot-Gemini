@@ -74,7 +74,7 @@ This ensures responses are **context-based, relevant, and reliable**, not random
  
 ## Demo
 
-![Chat Result](screenshots/Chat_Result.png)
+![Chat Result](Chat_Result.png)
 
 ---
 
