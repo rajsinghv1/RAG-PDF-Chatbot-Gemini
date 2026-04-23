@@ -71,11 +71,10 @@ This ensures responses are **context-based, relevant, and reliable**, not random
 - 🏢 Knowledge Assistant for organizations  
 
 ---
+ 
+## Demo
 
-## 📸 Demo  
-
-Add your screenshot here:  
-/screenshots/Chat_Result.png  
+![Chat Result](screenshots/Chat_Result.png)
 
 ---
 
